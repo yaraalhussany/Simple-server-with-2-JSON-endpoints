@@ -36,13 +36,21 @@ Write the implemented JS code for the server
 
 Results:
 
+Requesting the first endpoint on localhost
 
-![Requesting the first endpoint on localhost](Screenshot 2026-07-11 191254.png)
+![](Screenshot%202026-07-11%20191254.png)
 
-![Requesting the second endpoint on the local host]("C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2026-07-11 191309.png")
+Requesting the second endpoint on localhost
 
-![Requesting the first endpoint on the terminal using curl]("C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2026-07-11 191408.png")
+![](Screenshot%202026-07-11%20191309.png)
 
-![Requesting the second endpoint on the terminal using curl]("C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2026-07-11 191442.png")
+Requesting the first endpoint on the terminal using curl
+
+![](Screenshot%202026-07-11%20191408.png)
+
+Requesting the second endpoint on the terminal using curl
+
+![](Screenshot%202026-07-11%20191442.png)
+
 
 
