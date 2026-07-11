@@ -36,7 +36,8 @@ Write the implemented JS code for the server
 
 Results:
 
-![Requesting the first endpoint on localhost](screenshots/Screenshot%202026-07-11%20191254.png)
+
+![Requesting the first endpoint on localhost](Screenshot 2026-07-11 191254.png)
 
 ![Requesting the second endpoint on the local host]("C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2026-07-11 191309.png")
 
